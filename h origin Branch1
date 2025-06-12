@@ -1,0 +1,23 @@
+[1mdiff --git a/Test.html b/Test.html[m
+[1mindex 402ee69..e69de29 100644[m
+[1m--- a/Test.html[m
+[1m+++ b/Test.html[m
+[36m@@ -1 +0,0 @@[m
+[31m-<html>[m
+[1mdiff --git a/Test.py b/Test.py[m
+[1mindex 6ef20ea..7951bbc 100644[m
+[1m--- a/Test.py[m
+[1m+++ b/Test.py[m
+[36m@@ -1,2 +1 @@[m
+[31m-print("Welcome Archana")[m
+[31m-print("Hi")[m
+[32m+[m[32mprint("Welcome Archana")[m
+\ No newline at end of file[m
+[1mdiff --git a/Text.txt b/Text.txt[m
+[1mdeleted file mode 100644[m
+[1mindex 1fcc4ab..0000000[m
+[1m--- a/Text.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-HELLO WORLD[m
+\ No newline at end of file[m
